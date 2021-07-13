@@ -1,1 +1,1 @@
-# mrs-ubot
+# mir-ubot
